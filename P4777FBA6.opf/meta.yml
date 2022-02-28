@@ -1,0 +1,22 @@
+id: P4777FBA6
+initial_creation_type: input
+source_metadata:
+  title: Dependent Origination
+  language: en
+  description: 'Texts on the subject of dependent origination (pratītyasamutpāda;
+    rten cing ''brel bar ''byung ba) or interdependent arising:'
+  volume:
+    2fc247e78dc24ae6932e41b8c0f3d021:
+      title: The Noble Essence of Dependent Origination
+      parent: Dhāraṇī
+    784a47903c5246788ab43e106179909e:
+      title: Commentary on Nāgārjuna's Verses on the Essence of Dependent Origination
+      parent: Twelve Links
+    bcb66c801c2d4cbb9597c0a153b808d1:
+      title: Commentary on the Noble Essence of the Dharmadhātu
+      parent: Twelve Links
+    4f0545f063d7457997199364f07f8e98:
+      title: Verses on the Heart of Dependent Origination
+      parent: Twelve Links
+created_at: '2022-03-01T03:23:59.262422'
+last_modified_at: '2022-03-01T03:23:59.262428'
